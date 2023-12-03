@@ -8,11 +8,11 @@ For copyright reasons I replaced the content provided by Codecademy.
 Free for use under the Pixabay Content License
 https://pixabay.com/service/license-summary/
 
-Leaf Logo: Clker-Free-Vector-Images (pixabay.com)
-Background Our Mission: congerdesign (pixabay.com)
-Berry Tea: dungthuyvunguyen (pixabay.com)
-Lemon Tea: JillWellington (pixabay.com)
-Chamomile Tea: congerdesign (pixabay.com)
-English Breakfast Tea: TerriC (pixabay.com)
-Fresh Scones: elsasupport (pixabay.com)
-Background Locations: Layenday (pixabay.com)
+- Leaf Logo: Clker-Free-Vector-Images (pixabay.com)
+- Background Our Mission: congerdesign (pixabay.com)
+- Berry Tea: dungthuyvunguyen (pixabay.com)
+- Lemon Tea: JillWellington (pixabay.com)
+- Chamomile Tea: congerdesign (pixabay.com)
+- English Breakfast Tea: TerriC (pixabay.com)
+- Fresh Scones: elsasupport (pixabay.com)
+- Background Locations: Layenday (pixabay.com)
