@@ -1,0 +1,170 @@
+
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    font-size: 1.375rem;
+    color: seashell;
+    background-color: black;
+    opacity: 0.8;
+    box-sizing: content-box;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*navigation bar*/
+
+nav {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: black;
+}
+
+nav img {
+    height: 50px;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    float: right;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+a {
+    color: seashell;
+}
+
+a:hover{
+    cursor: pointer;
+    color: #B99E8B;
+}
+
+/* hero picture with text */
+
+.hero {
+    height: 700px;
+    background-image: url(../images/herbal-tea-1410565_1280.jpg);
+    margin: 0 40px;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h4 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.hero-text {
+    background-color: black;
+    text-align: center;
+}
+
+/* tea of month */
+
+.tea-of-month {
+    max-width: 1000px;
+    margin: 50px 0;
+}
+
+.tea-of-month-headlines {
+    text-align: center;
+}
+
+.tea-of-month-pics-row-1 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+} 
+
+.tea-of-month-pics-row-2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+
+figure img {
+    max-width: 300px;
+    height: 200px;
+  }
+
+figure {
+    margin: 16px;
+    padding: 0;
+    gap: 0;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+/* locations */
+
+.locations {
+    flex-basis: 500px;
+    background-image: url(../images/tea-6405249_1280.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    margin: 0 40px;
+    box-sizing: content-box;
+}
+
+.locations-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    flex-wrap: wrap;
+}
+
+.locations-headline {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.location-box {
+    text-align: center;
+    background-color: black;
+    width: 300px;
+    margin: 15px 20px;
+    opacity: 1;
+
+}
+
+
+.locations-headline h2 {
+    margin: 0;
+    text-shadow: 2px 2px 7px black;
+}
+
+/* address */
+
+address {
+    text-align: center;
+    font-style: normal;
+    height: 200px;
+}
