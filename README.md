@@ -16,3 +16,7 @@ https://pixabay.com/service/license-summary/
 - English Breakfast Tea: TerriC (pixabay.com)
 - Fresh Scones: elsasupport (pixabay.com)
 - Background Locations: Layenday (pixabay.com)
+
+# Screenshot
+
+<img src="./screenshot-tea-website.png" alt="screenshot" />
